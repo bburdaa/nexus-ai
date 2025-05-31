@@ -1,5 +1,9 @@
 # NEXUS.AI
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/github/license/bburdaa/nexus-ai)
+![Last Commit](https://img.shields.io/github/last-commit/bburdaa/nexus-ai)
+![Stars](https://img.shields.io/github/stars/bburdaa/nexus-ai?style=social)
 **AI Automation Infrastructure Engine**
 
 Build complex AI workflows, automate decisions, and optimize payments at light speed.
